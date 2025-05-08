@@ -55,12 +55,12 @@ export default function CreateAdventure() {
 
     return (
         <div className="min-h-screen bg-black flex flex-col items-center justify-center text-white p-2">
-            <button className="absolute mt-24 top-4 left-4 text-sm text-white bg-gray-700 rounded-full px-3 py-1">
+            <button className="absolute mt-24 top-4 left-4 text-sm text-white bg-[#a1a1a11c] rounded-full px-4 py-2">
                 ← Back
             </button>
 
             <h1 className="text-4xl text-white -mt-20 font-poppins mb-5">Create Your Own Adventure</h1>
-            <p className="text-md  text-white mb-8 font-poppins text-gray-300">
+            <p className="text-md  text-white mb-8 font-poppins ">
                 Tailor your session to your pace, mood, and style
             </p>
 
